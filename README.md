@@ -1,0 +1,2 @@
+# logstore
+Sistema de logs
